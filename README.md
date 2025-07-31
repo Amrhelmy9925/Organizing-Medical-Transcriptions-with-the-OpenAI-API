@@ -40,6 +40,9 @@ This project uses OpenAI's GPT models to extract structured information from med
   - Recommended Treatment/Procedure
   - Medical Specialty
   - ICD Code
+### Example Output
+
+![Sample Output Table](output.png)
 
 ## Notes
 - The OpenAI API is used for both information extraction and ICD code lookup. Ensure your API key has sufficient quota.
